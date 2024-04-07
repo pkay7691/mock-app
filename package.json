@@ -1,0 +1,22 @@
+{
+  "name": "mock",
+  "version": "1.0.0",
+  "description": "Mock draft tournament game",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pkay7691/mock-app.git"
+  },
+  "author": "Pat Kenny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pkay7691/mock-app/issues"
+  },
+  "homepage": "https://github.com/pkay7691/mock-app#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
